@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		123FBE4E1E7F8AC800A3969A /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FBE4D1E7F8AC800A3969A /* SettingsViewController.swift */; };
 		125BA8F01E778158009F5A26 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 125BA8EF1E778158009F5A26 /* AppDelegate.swift */; };
 		125BA8F21E778158009F5A26 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 125BA8F11E778158009F5A26 /* ViewController.swift */; };
 		125BA8F51E778158009F5A26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 125BA8F31E778158009F5A26 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		123FBE4D1E7F8AC800A3969A /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		125BA8EC1E778158009F5A26 /* TipCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TipCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		125BA8EF1E778158009F5A26 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		125BA8F11E778158009F5A26 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		125BA8E31E778157009F5A26 = {
 			isa = PBXGroup;
 			children = (
+				123FBE4D1E7F8AC800A3969A /* SettingsViewController.swift */,
 				125BA8EE1E778158009F5A26 /* TipCalculator */,
 				125BA9031E778158009F5A26 /* TipCalculatorTests */,
 				125BA90E1E778158009F5A26 /* TipCalculatorUITests */,
@@ -261,6 +264,7 @@
 			files = (
 				125BA8F21E778158009F5A26 /* ViewController.swift in Sources */,
 				125BA8F01E778158009F5A26 /* AppDelegate.swift in Sources */,
+				123FBE4E1E7F8AC800A3969A /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -505,6 +509,7 @@
 				125BA9161E778158009F5A26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		125BA9171E778158009F5A26 /* Build configuration list for PBXNativeTarget "TipCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +518,7 @@
 				125BA9191E778158009F5A26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		125BA91A1E778158009F5A26 /* Build configuration list for PBXNativeTarget "TipCalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +527,7 @@
 				125BA91C1E778158009F5A26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
