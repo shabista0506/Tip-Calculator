@@ -2,7 +2,17 @@
 Tip Calculator
 This is a Tip Calculator application for iOS submitted as the pre-assignment requirement for CodePath.
 
-Time spent: [number of hours you spend for the work]
+Time spent: [7.0]
+
+Completed:
+
+[-] Required: User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+[-] Required: Settings page to change the default tip percentage.
+[] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+
+Walk through of the app link :
+
+http://imgur.com/xN0nrSu
 
 Reference:
 
